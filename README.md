@@ -1,2 +1,2 @@
-# tamires
-Projeto Html e css de estudos
+# Sobre Tamires(Sobre Mim)
+Projeto Html e CSS.
